@@ -3,7 +3,9 @@
 ### présentation ###
 
 Il s'agit d'un jeu pour le concour de Mathieu sur sa chaine you tube.
+
 La vidéo de présentation du concours peut être trouvée ici: [concour](https://www.youtube.com/watch?v=U3wnYTDof6Y&t=398s)
+
 Il faut pour cela il faut se connecter sur Discord sur la chaine de Mathieu :[Discord](https://discordapp.com/invite/RhP6aF2)
  
 ### reglement ###
@@ -16,21 +18,26 @@ Date de début.: 12 novembre 2019.
 Dernier délai de remise des projets des participants : le 17 décembre 2019 23:59.
 
 **LE JEU**
+
 Il faut revisiter le principe du labyrinthe, en y ajoutant vos propres idées de gameplay.
 La seule obligation : devoir partir d’un point A et arriver à un point B en devant trouver le chemin pour y arriver.
 
 **REMISE DES PROJETS**
+
 Un lien de téléchargement de votre projet doit être envoyé par mail à mat@domeprojekt.com. Votre jeu peut être stocker sur google drive, Dropbox, game jolt… Peu importe où à partir du moment où je peux le télécharger.
 
 **MOTEURS GRAPHIQUES**
+
 Tous les moteurs graphiques sont bien entendus acceptés.
 
 **ATTENTION**
+
 - La totalité des objets 3D doivent être conçus au sein des moteurs graphiques à l’aide des outils de base (cube, sphère, cylindre) ou des logiciels de modé 3D à partir du moment où cette contrainte est respectée.
 - Vous pouvez utiliser ce que vous souhaitez pour les Materials, le son. Mais attention, l’utiliser veut dire être jugé dessus également. Restez sur la simplicité si vous ne maîtrisez pas ces aspects.
 - Vous pouvez utiliser le personnage par défaut du moteur ou n'importe quel autre personnage trouvable sur internet ou de votre propre création. 
 
 **PLUGINS PROSCRITS**
+
 L'utilisation de plugin est interdite
 
 ### Mes Idées ###
