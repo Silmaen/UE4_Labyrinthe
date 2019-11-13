@@ -63,5 +63,6 @@ Plus on avance dans els levels plus la map est grande et le nombre d'objets auss
   - le cube: change rien
   - la flamme: transforme les murs en flammes et ébloui un peu!
   - la glace: change les murs en glace et rend le sol glissant
+  - la feuille: change les murs en buisson (on peut un peu voir au travers) et le sol en gazon
   - le cristal: change les murs en pseudo-transparent avec animations
 
