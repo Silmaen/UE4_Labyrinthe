@@ -1,0 +1,111 @@
+
+Main Menu
+
+*-------------------------------------------------*
+|                                                 |
+|             FARFOUILLE LABYRINTHE               |
+|                                                 |
+|                                                 |
+|                >NOUVEAU JEU<                    |  -> démarre une nouvelle partie: goto level 1
+|                                                 |
+|                    >AIDE<                       |  -> goto 'page d'aide'
+|                                                 |
+|            >TEMPLE DE LA RENOMéE<               |  -> goto 'hall of fame'
+|                                                 |
+|                                                 |
+|                                                 |
+|              >QUITTER LE JEU<                   |  -> quitte le jeu
+*-------------------------------------------------*
+
+Page d'aide
+
+*-------------------------------------------------*
+|                                                 |
+|             FARFOUILLE LABYRINTHE               |
+|                                                 |
+|      *-----------------------------------*      |
+|      |                                 |^|      |
+|      |                                 | |      |   text du contenu de l'help
+|      |         [help contents]         | |      |
+|      |                                 | |      |
+|      |                                 | |      |
+|      |                                 |v|      |
+|      *-----------------------------------*      |
+|                                                 |
+|              >REVENIR AU MENU<                  |  -> Goto Main Menu
+*-------------------------------------------------*
+
+hall of fame
+
+*-------------------------------------------------*
+|                                                 |
+|             FARFOUILLE LABYRINTHE               |
+|                                                 |
+|      *-----------------------------------*      |
+|      | 1   NAME        LEVEL     0:00  |^|      |
+|      | 2   NAME        LEVEL     0:00  | |      |   le leaderboard
+|      | .                               | |      |
+|      | .                               | |      |
+|      | .                               | |      |
+|      | 10  NAME        LEVEL     0:00  |v|      |
+|      *-----------------------------------*      |
+|                                                 |
+|              >REVENIR AU MENU<                  |  -> Goto Main Menu
+*-------------------------------------------------*
+
+ingame HUD
+
+*-------------------------------------------------*
+|                 /-\   /-\ /-\                   |
+|                 | | * | | | |                   |  -> le chrono du labyrinthe en cours
+|                 \-/ * \-/ \-/                   |
+|                                                 |
+|                                                 |
+|                                                 |
+|                                                 |
+|                                                 |
+|                                                 |
+|                                                 |
+|                                                 |
+|                                                 | /-> le chrono cumulé sur les niveaux
+| 0:00                                  # # # # # | #-> les objets déjà aquis (autant de cadres vides que d'objet du level en cours)
+*-------------------------------------------------*
+
+ingame Menu
+ - blur l'écran pour éviter le cheat... 
+ - pas possible pendant la phase help
+ - pause chrono
+*-------------------------------------------------*
+|                                                 |
+|             FARFOUILLE LABYRINTHE               |
+|                                                 |
+|                                                 |
+|                >RETOUR AU JEU<                  |  -> retour au jeu, sorti du menu, le chrono continue
+|                                                 |
+|                    >AIDE<                       |  -> goto 'ingame help'
+|                                                 |
+|                                                 |
+|                                                 |
+|                                                 |
+|                                                 |
+|                 >ABANDONNER<                    |  -> goto main menu (add time in leaderboard)
+*-------------------------------------------------*
+
+ingame help
+
+*-------------------------------------------------*
+|                                                 |
+|             FARFOUILLE LABYRINTHE               |
+|                                                 |
+|                                                 |
+|                >RETOUR AU JEU<                  |  -> retour au jeu, sorti du menu, le chrono continue
+|      *-----------------------------------*      |   
+|      |                                   |      |
+|      | Pas d'aide en jeu: pour obtenir de|      |
+|      | l'aide, commencez par abandonner  |      |
+|      |               :D                  |      |
+|      *-----------------------------------*      |
+|                 >ABANDONNER<                    |  -> goto main menu (add time in leaderboard)
+|              >REVENIR AU MENU<                  |  -> Goto ingame Menu
+*-------------------------------------------------*
+
