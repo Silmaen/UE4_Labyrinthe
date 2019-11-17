@@ -218,5 +218,8 @@
 			"Name": "SteamVR",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }
