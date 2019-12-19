@@ -4,13 +4,13 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
-#include "UE4_LabyrintheGameModeBase.generated.h"
+#include "FarfouilleLabyrintheGameModeBase.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class UE4_LABYRINTHE_API AUE4_LabyrintheGameModeBase : public AGameModeBase
+class FARFOUILLELABYRINTHE_API AFarfouilleLabyrintheGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	

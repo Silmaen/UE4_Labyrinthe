@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class UE4_Labyrinthe : ModuleRules
+public class FarfouilleLabyrinthe : ModuleRules
 {
-	public UE4_Labyrinthe(ReadOnlyTargetRules Target) : base(Target)
+	public FarfouilleLabyrinthe(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
